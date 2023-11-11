@@ -67,7 +67,6 @@ public class Main {
 
 
 
-
                 //Storing the result in a variable
                 double result = discount(totalSum, customerType);
 
